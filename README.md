@@ -8,5 +8,11 @@ I made my own mosaic in the processing coding language. This mosaic is meant to 
 I do so by having a flag of Korea with a tiger (Symbolic animal of Korea) in front of it as the image we can see from afar, and the individual tiles are all pictures I took during my semester abroad.
 We can zoom in and out as much as we want to be able to see the image as if we were placed closer or further away from it.
 
+Below are the mural I used as inspiration, the image I used for the flag of Korea, and the results I obtained.
+You can make your own mosaic by following the instructions written at the bottom of the read me.
+
 
 ![image](https://github.com/Christophe-Saury/Seoul_Semester_Mosaic/assets/95085659/ff2e6a4f-29b9-44c8-bdef-24984ee64dc7)
+
+How to make your own mosaic :
+...
